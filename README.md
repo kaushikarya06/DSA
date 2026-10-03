@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kaushikarya06/DSA/tree/master/0001-two-sum) |
+| [0066-plus-one](https://github.com/kaushikarya06/DSA/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/kaushikarya06/DSA/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/kaushikarya06/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/kaushikarya06/DSA/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/kaushikarya06/DSA/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/kaushikarya06/DSA/tree/master/0189-rotate-array) |
 | [1013-fibonacci-number](https://github.com/kaushikarya06/DSA/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/kaushikarya06/DSA/tree/master/1236-n-th-tribonacci-number) |
