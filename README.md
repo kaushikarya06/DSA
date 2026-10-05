@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/kaushikarya06/DSA/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/kaushikarya06/DSA/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/kaushikarya06/DSA/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/kaushikarya06/DSA/tree/master/0231-power-of-two) |
 | [0292-nim-game](https://github.com/kaushikarya06/DSA/tree/master/0292-nim-game) |
 | [1013-fibonacci-number](https://github.com/kaushikarya06/DSA/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/kaushikarya06/DSA/tree/master/1236-n-th-tribonacci-number) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/kaushikarya06/DSA/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/kaushikarya06/DSA/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -61,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/kaushikarya06/DSA/tree/master/0292-nim-game) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/kaushikarya06/DSA/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
