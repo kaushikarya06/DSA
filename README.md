@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/kaushikarya06/DSA/tree/master/0189-rotate-array) |
+| [0344-reverse-string](https://github.com/kaushikarya06/DSA/tree/master/0344-reverse-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -67,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/kaushikarya06/DSA/tree/master/0231-power-of-two) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/kaushikarya06/DSA/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
