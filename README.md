@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/kaushikarya06/DSA/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/kaushikarya06/DSA/tree/master/0189-rotate-array) |
 | [0724-find-pivot-index](https://github.com/kaushikarya06/DSA/tree/master/0724-find-pivot-index) |
+| [0909-stone-game](https://github.com/kaushikarya06/DSA/tree/master/0909-stone-game) |
 | [2102-find-the-middle-index-in-array](https://github.com/kaushikarya06/DSA/tree/master/2102-find-the-middle-index-in-array) |
 ## Hash Table
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/kaushikarya06/DSA/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/kaushikarya06/DSA/tree/master/0231-power-of-two) |
 | [0292-nim-game](https://github.com/kaushikarya06/DSA/tree/master/0292-nim-game) |
+| [0909-stone-game](https://github.com/kaushikarya06/DSA/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/kaushikarya06/DSA/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/kaushikarya06/DSA/tree/master/1236-n-th-tribonacci-number) |
 ## Two Pointers
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0909-stone-game](https://github.com/kaushikarya06/DSA/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/kaushikarya06/DSA/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/kaushikarya06/DSA/tree/master/1236-n-th-tribonacci-number) |
 ## Recursion
@@ -55,10 +58,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/kaushikarya06/DSA/tree/master/0292-nim-game) |
+| [0909-stone-game](https://github.com/kaushikarya06/DSA/tree/master/0909-stone-game) |
 ## Game Theory
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/kaushikarya06/DSA/tree/master/0292-nim-game) |
+| [0909-stone-game](https://github.com/kaushikarya06/DSA/tree/master/0909-stone-game) |
 ## Nim Game
 |  |
 | ------- |
@@ -81,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0724-find-pivot-index](https://github.com/kaushikarya06/DSA/tree/master/0724-find-pivot-index) |
 | [2102-find-the-middle-index-in-array](https://github.com/kaushikarya06/DSA/tree/master/2102-find-the-middle-index-in-array) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0909-stone-game](https://github.com/kaushikarya06/DSA/tree/master/0909-stone-game) |
 <!---LeetCode Topics End-->
