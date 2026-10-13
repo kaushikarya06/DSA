@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/kaushikarya06/DSA/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/kaushikarya06/DSA/tree/master/0231-power-of-two) |
 | [0292-nim-game](https://github.com/kaushikarya06/DSA/tree/master/0292-nim-game) |
+| [0319-bulb-switcher](https://github.com/kaushikarya06/DSA/tree/master/0319-bulb-switcher) |
 | [0909-stone-game](https://github.com/kaushikarya06/DSA/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/kaushikarya06/DSA/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/kaushikarya06/DSA/tree/master/1236-n-th-tribonacci-number) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/kaushikarya06/DSA/tree/master/0292-nim-game) |
+| [0319-bulb-switcher](https://github.com/kaushikarya06/DSA/tree/master/0319-bulb-switcher) |
 ## Minimax
 |  |
 | ------- |
