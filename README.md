@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/kaushikarya06/DSA/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/kaushikarya06/DSA/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/kaushikarya06/DSA/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/kaushikarya06/DSA/tree/master/0268-missing-number) |
 | [0724-find-pivot-index](https://github.com/kaushikarya06/DSA/tree/master/0724-find-pivot-index) |
 | [0909-stone-game](https://github.com/kaushikarya06/DSA/tree/master/0909-stone-game) |
 | [2102-find-the-middle-index-in-array](https://github.com/kaushikarya06/DSA/tree/master/2102-find-the-middle-index-in-array) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kaushikarya06/DSA/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/kaushikarya06/DSA/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
@@ -27,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/kaushikarya06/DSA/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/kaushikarya06/DSA/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/kaushikarya06/DSA/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/kaushikarya06/DSA/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/kaushikarya06/DSA/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/kaushikarya06/DSA/tree/master/0319-bulb-switcher) |
 | [0909-stone-game](https://github.com/kaushikarya06/DSA/tree/master/0909-stone-game) |
@@ -82,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/kaushikarya06/DSA/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/kaushikarya06/DSA/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/kaushikarya06/DSA/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -99,10 +103,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/kaushikarya06/DSA/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/kaushikarya06/DSA/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/kaushikarya06/DSA/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/kaushikarya06/DSA/tree/master/0268-missing-number) |
 ## Newton's Method
 |  |
 | ------- |
