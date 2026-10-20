@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/kaushikarya06/DSA/tree/master/0268-missing-number) |
 | [0724-find-pivot-index](https://github.com/kaushikarya06/DSA/tree/master/0724-find-pivot-index) |
 | [0909-stone-game](https://github.com/kaushikarya06/DSA/tree/master/0909-stone-game) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/kaushikarya06/DSA/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2048-build-array-from-permutation](https://github.com/kaushikarya06/DSA/tree/master/2048-build-array-from-permutation) |
 | [2102-find-the-middle-index-in-array](https://github.com/kaushikarya06/DSA/tree/master/2102-find-the-middle-index-in-array) |
 ## Hash Table
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-stone-game](https://github.com/kaushikarya06/DSA/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/kaushikarya06/DSA/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/kaushikarya06/DSA/tree/master/1236-n-th-tribonacci-number) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/kaushikarya06/DSA/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Two Pointers
 |  |
 | ------- |
