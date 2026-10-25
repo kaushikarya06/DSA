@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kaushikarya06/DSA/tree/master/0001-two-sum) |
+| [0031-next-permutation](https://github.com/kaushikarya06/DSA/tree/master/0031-next-permutation) |
 | [0066-plus-one](https://github.com/kaushikarya06/DSA/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/kaushikarya06/DSA/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/kaushikarya06/DSA/tree/master/0136-single-number) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/kaushikarya06/DSA/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/kaushikarya06/DSA/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/kaushikarya06/DSA/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/kaushikarya06/DSA/tree/master/0344-reverse-string) |
