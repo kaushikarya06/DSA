@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/kaushikarya06/DSA/tree/master/0268-missing-number) |
 | [0724-find-pivot-index](https://github.com/kaushikarya06/DSA/tree/master/0724-find-pivot-index) |
 | [0909-stone-game](https://github.com/kaushikarya06/DSA/tree/master/0909-stone-game) |
+| [0941-sort-array-by-parity](https://github.com/kaushikarya06/DSA/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/kaushikarya06/DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/kaushikarya06/DSA/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2048-build-array-from-permutation](https://github.com/kaushikarya06/DSA/tree/master/2048-build-array-from-permutation) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/kaushikarya06/DSA/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/kaushikarya06/DSA/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/kaushikarya06/DSA/tree/master/0344-reverse-string) |
+| [0941-sort-array-by-parity](https://github.com/kaushikarya06/DSA/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/kaushikarya06/DSA/tree/master/1019-squares-of-a-sorted-array) |
 ## Dynamic Programming
 |  |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/kaushikarya06/DSA/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/kaushikarya06/DSA/tree/master/0268-missing-number) |
+| [0941-sort-array-by-parity](https://github.com/kaushikarya06/DSA/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/kaushikarya06/DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/kaushikarya06/DSA/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Binary Search
