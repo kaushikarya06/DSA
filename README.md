@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/kaushikarya06/DSA/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/kaushikarya06/DSA/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/kaushikarya06/DSA/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/kaushikarya06/DSA/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/kaushikarya06/DSA/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/kaushikarya06/DSA/tree/master/0136-single-number) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/kaushikarya06/DSA/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/kaushikarya06/DSA/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/kaushikarya06/DSA/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/kaushikarya06/DSA/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/kaushikarya06/DSA/tree/master/0344-reverse-string) |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/kaushikarya06/DSA/tree/master/0042-trapping-rain-water) |
 | [0909-stone-game](https://github.com/kaushikarya06/DSA/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/kaushikarya06/DSA/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/kaushikarya06/DSA/tree/master/1236-n-th-tribonacci-number) |
@@ -134,4 +137,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2048-build-array-from-permutation](https://github.com/kaushikarya06/DSA/tree/master/2048-build-array-from-permutation) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/kaushikarya06/DSA/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/kaushikarya06/DSA/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
