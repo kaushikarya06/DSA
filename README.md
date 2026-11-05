@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/kaushikarya06/DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/kaushikarya06/DSA/tree/master/1137-height-checker) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/kaushikarya06/DSA/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/kaushikarya06/DSA/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [2048-build-array-from-permutation](https://github.com/kaushikarya06/DSA/tree/master/2048-build-array-from-permutation) |
 | [2102-find-the-middle-index-in-array](https://github.com/kaushikarya06/DSA/tree/master/2102-find-the-middle-index-in-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/kaushikarya06/DSA/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/kaushikarya06/DSA/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/kaushikarya06/DSA/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/kaushikarya06/DSA/tree/master/1019-squares-of-a-sorted-array) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/kaushikarya06/DSA/tree/master/1486-find-the-distance-value-between-two-arrays) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -127,12 +129,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-sort-array-by-parity-ii](https://github.com/kaushikarya06/DSA/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/kaushikarya06/DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/kaushikarya06/DSA/tree/master/1137-height-checker) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/kaushikarya06/DSA/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/kaushikarya06/DSA/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Binary Search
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/kaushikarya06/DSA/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/kaushikarya06/DSA/tree/master/0268-missing-number) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/kaushikarya06/DSA/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/kaushikarya06/DSA/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Newton's Method
 |  |
