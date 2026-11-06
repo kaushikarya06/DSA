@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/kaushikarya06/DSA/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/kaushikarya06/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/kaushikarya06/DSA/tree/master/0268-missing-number) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kaushikarya06/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0724-find-pivot-index](https://github.com/kaushikarya06/DSA/tree/master/0724-find-pivot-index) |
 | [0909-stone-game](https://github.com/kaushikarya06/DSA/tree/master/0909-stone-game) |
 | [0941-sort-array-by-parity](https://github.com/kaushikarya06/DSA/tree/master/0941-sort-array-by-parity) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/kaushikarya06/DSA/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/kaushikarya06/DSA/tree/master/0319-bulb-switcher) |
 | [0342-power-of-four](https://github.com/kaushikarya06/DSA/tree/master/0342-power-of-four) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kaushikarya06/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0909-stone-game](https://github.com/kaushikarya06/DSA/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/kaushikarya06/DSA/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/kaushikarya06/DSA/tree/master/1236-n-th-tribonacci-number) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/kaushikarya06/DSA/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/kaushikarya06/DSA/tree/master/0268-missing-number) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kaushikarya06/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0941-sort-array-by-parity](https://github.com/kaushikarya06/DSA/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/kaushikarya06/DSA/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/kaushikarya06/DSA/tree/master/1019-squares-of-a-sorted-array) |
