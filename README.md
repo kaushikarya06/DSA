@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kaushikarya06/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0724-find-pivot-index](https://github.com/kaushikarya06/DSA/tree/master/0724-find-pivot-index) |
 | [0909-stone-game](https://github.com/kaushikarya06/DSA/tree/master/0909-stone-game) |
+| [0932-monotonic-array](https://github.com/kaushikarya06/DSA/tree/master/0932-monotonic-array) |
 | [0941-sort-array-by-parity](https://github.com/kaushikarya06/DSA/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/kaushikarya06/DSA/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/kaushikarya06/DSA/tree/master/1019-squares-of-a-sorted-array) |
