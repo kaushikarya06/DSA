@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/kaushikarya06/DSA/tree/master/2048-build-array-from-permutation) |
 | [2102-find-the-middle-index-in-array](https://github.com/kaushikarya06/DSA/tree/master/2102-find-the-middle-index-in-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/kaushikarya06/DSA/tree/master/2210-find-target-indices-after-sorting-array) |
+| [4116-minimum-moves-to-equal-array-elements-iii](https://github.com/kaushikarya06/DSA/tree/master/4116-minimum-moves-to-equal-array-elements-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/kaushikarya06/DSA/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/kaushikarya06/DSA/tree/master/1236-n-th-tribonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/kaushikarya06/DSA/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [4116-minimum-moves-to-equal-array-elements-iii](https://github.com/kaushikarya06/DSA/tree/master/4116-minimum-moves-to-equal-array-elements-iii) |
 ## Two Pointers
 |  |
 | ------- |
